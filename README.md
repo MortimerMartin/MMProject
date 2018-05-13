@@ -1,2 +1,0 @@
-# MMProject
-cocopods test
